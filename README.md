@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning modern website development 
 - 💞️ I’m looking to collaborate on initialize a new project 
 - 📫 asadullahsafi272340@gmail.com
-- 😄 Pronouns: ik27
+- 😄 Pronouns: programmer
 - ⚡ Fun fact: always fast...
 
 <!---
